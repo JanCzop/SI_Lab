@@ -1,0 +1,6 @@
+# my_data = ('WOJNÓW', 'BEZPIECZNA', '23:00')
+# my_data = ('Wysoka - Radosna', 'TARCZYŃSKI ARENA (Królewiecka)', '15:00')
+# my_data = ('Słowiańska', 'ROD Bielany', '20:00')
+# my_data = ('LEŚNICA', 'KSIĘŻE MAŁE', '7:15')
+#my_data = ('KSIĘŻE MAŁE', 'LEŚNICA', '9:23')
+my_data = ('PERZOWA', 'BEZPIECZNA', '20:34')
